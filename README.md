@@ -35,7 +35,7 @@
 <!--Intro end-->
 <br>
 <!--tech stack icons-->
-<h2 align="center">Tech I know</h2>
+<summary><h2 align="center">Tech I know</h2></summary>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,discord,django,flask,py,vscode"/>
