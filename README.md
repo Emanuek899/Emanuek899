@@ -33,11 +33,11 @@
 
 - 🏠 Don't hesitate to drop me a **👋** on Discord –  [1010nishant](https://discordapp.com/users/957722095381540874) my username!
 <!--Intro end-->
-
+<br>
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git, github, discord, django, flask, py, vscode"/>
+    <img src="https://skillicons.dev/icons?i=git,github,discord,django,flask,py,vscode"/>
   </a>
 </p>
 
